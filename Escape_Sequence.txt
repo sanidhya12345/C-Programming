@@ -1,0 +1,3 @@
+/t:- creates a horizontal tab
+//:- insert a backslash character
+/":- inserts a double quote character
