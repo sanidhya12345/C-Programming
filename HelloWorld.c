@@ -1,5 +1,8 @@
 #include<stdio.h>
 void main()
 {
-    printf("hello world");
+    signed short int a=-32769;
+    printf("%d\n",a);
+    unsigned short int b=65538;
+    printf("%d",b);
 }
